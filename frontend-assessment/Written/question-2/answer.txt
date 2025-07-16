@@ -1,0 +1,8 @@
+The .hidden-div should be invisible, but it’s not because the .section .div style is overriding it.
+
+The comment about the blue underline at line 30 isn’t working, maybe the style isn’t applied correctly.
+
+The title of the list should be placed outside the <ul>, not inside it.
+
+There's also no <!DOCTYPE html> on top.
+

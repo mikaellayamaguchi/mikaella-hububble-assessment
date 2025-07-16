@@ -1,0 +1,13 @@
+.slider {
+  position: relative;
+
+}
+
+.slider .slide img {
+  display: none;
+}
+
+.slide img.active {
+  display: block;
+}
+
